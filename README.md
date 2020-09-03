@@ -21,14 +21,14 @@ Data sets are classified in different machine learning problems
             <td>3</td>
             <td><code>567497</code></td>
             <td><code>2211 (0.4 %)</code></td>
-            <td>The datasets contains transactions made by credit cards in September 2013 by european cardholders. The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group of ULB (Université Libre de Bruxelles). <a href=https://www.kaggle.com/mlg-ulb/creditcardfraud>Download</a></td>
+            <td><a href=https://www.kaggle.com>Download</a></td>
         </tr>
         <tr>
             <td>smtp</td>
             <td>3</td>
             <td><code>95156</code></td>
             <td><code>30 (0.03 %)</code></td>
-            <td>The datasets contains transactions made by credit cards in September 2013 by european cardholders. The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group of ULB (Université Libre de Bruxelles). <a href=https://www.kaggle.com/mlg-ulb/creditcardfraud>Download</a></td>
+            <td><a href=https://www.kaggle.com>Download</a></td>
         </tr>
         <tr>
             <td>annthyroid</td>
